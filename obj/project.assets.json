@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diyar\\.nuget\\packages\\": {}
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\Users\\diyar\\SIT232\\app\\app.csproj",
       "projectName": "app",
       "projectPath": "C:\\Users\\diyar\\SIT232\\app\\app.csproj",
-      "packagesPath": "C:\\Users\\diyar\\.nuget\\packages\\",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\diyar\\SIT232\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diyar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
